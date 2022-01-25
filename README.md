@@ -6,7 +6,9 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 ## 汉化成品补丁[Releases](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/releases/tag/%E6%AD%A3%E5%BC%8F%E7%89%88)
 
-## 使用locres工具将xls文本打包成locres文本
+## 制作汉化补丁：
+
+### 1、使用locres工具将xls文本打包成locres文本
 
 第一步：locres工具从这个网站下载
 
@@ -16,16 +18,16 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 ![avatar](image/1.png)
 
-第三步：点击上方 `加载原locres文件` 导入[EN_Game.locres](src/EN_Game.locres) 
+第三步：点击上方 `加载原locres文件` 导入英文文本[EN_Game.locres](src/EN_Game.locres) 
 
-第四步：先将 `生成语言` 改为 `简体中文` ，然后再点击 `加载Excel文件` 导入[Game.locres.xls](src/Game.locres.xls) 
+第四步：先将 `生成语言` 改为 `简体中文` ，然后再点击 `加载Excel文件` 将已汉化或修改的文件导入[Game.locres.xls](src/Game.locres.xls) 
 
 第五步：最后点击`生成locres文件`保存locres文件
 
 ![](image/4.png) 
 
 
-## 将locres文件打包回pak文件
+### 2、将locres文件打包回pak文件
 
 第一步：下载UnrealPak来进行打包 
 
@@ -45,8 +47,9 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 游戏的解包可以在此下载 <br/>
 
-`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf` 解压密码5589 <br/>
-`QQ群文件：517836278`
+`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf` <br/>
+`QQ群文件：517836278` <br/>
+解压密码5589 <br/>
 
 ![](image/8.png) 
 
