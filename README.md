@@ -1,7 +1,10 @@
 # FNAF-SecurityBreach_Chinese
 玩具熊的五夜后宫：安全漏洞中文汉化补丁
 This patch can transfer your English language pack of FNAF:Security Breach into Chinese.
-## 使用locres工具将xls文件打包成locres
+
+## 游戏文本在此[Game.locres.xls](src/Game.locres.xls)
+
+## 使用locres工具将xls文本打包成locres文本
 
 第一步：locres工具从这个网站下载
 
@@ -38,7 +41,10 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 第三步：将游戏解包出来的文件复制到UnrealPak文件夹里
 
-游戏的解包可以在此下载：`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf` 解压密码5589
+游戏的解包可以在此下载 <br/>
+
+`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf` 解压密码5589 <br/>
+`QQ群文件：517836278`
 
 ![](image/8.png) 
 
