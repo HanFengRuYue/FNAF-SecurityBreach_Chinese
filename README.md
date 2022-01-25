@@ -4,7 +4,7 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 ## 游戏汉化文本[Games.locres.xls](src/Games.locres.xls) <br/>
 
-## 汉化成品补丁[Releases](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/releases/tag/%E6%AD%A3%E5%BC%8F%E7%89%88) <br/>
+## 汉化补丁安装程序[Releases](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/releases/tag/Install_v2.3) <br/>
 
 ## 制作汉化补丁：
 
