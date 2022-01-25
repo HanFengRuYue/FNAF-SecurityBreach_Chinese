@@ -13,7 +13,7 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 第三步：点击上方 `加载原locres文件` 导入[EN_Game.locres](src/EN_Game.locres) 
 
-第四步：先将 `生成语言` 改为 `简体中文` ，然后再点击 `加载Excel文件` 导入[EN_Game.locres](src/Game.locres.xls) 
+第四步：先将 `生成语言` 改为 `简体中文` ，然后再点击 `加载Excel文件` 导入[Game.locres.xls](src/Game.locres.xls) 
 
 第五步：最后点击`生成locres文件`保存locres文件
 
