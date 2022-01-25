@@ -38,7 +38,7 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 第三步：将游戏解包出来的文件复制到UnrealPak文件夹里
 
-游戏的解包可以在此下载：`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf`
+游戏的解包可以在此下载：`https://pan.baidu.com/s/1vfw7qOpngtPkTjoX1N_9lA?pwd=fnaf` 解压密码5589
 
 ![](image/8.png) 
 
