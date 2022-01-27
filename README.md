@@ -6,7 +6,7 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 ## 游戏汉化文本 [Games.locres.xls](src/Games.locres.xls) <br/>
 
-## 制作汉化补丁：
+## 制作汉化补丁：(此为制作汉化的教程！不是汉化补丁！不是汉化补丁！)
 
 ### 1、使用locres工具将xls文本打包成locres文本
 
