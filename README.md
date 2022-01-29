@@ -47,7 +47,7 @@ This patch can transfer your English language pack of FNAF:Security Breach into 
 
 游戏的解包可以在此下载 <br/>
 
-`https://pan.baidu.com/s/1S1Y8nZm5xQ2NqNvSSSxqoA?pwd=fnaf`<br/>
+`[FnafPak](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/raw/main/program/FnafPak.7z)`<br/>
 `QQ群文件：517836278` <br/>
 解压密码5589 <br/>
 
