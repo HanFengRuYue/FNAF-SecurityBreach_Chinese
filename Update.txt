@@ -1,0 +1,26 @@
+;aiu;
+
+[General]
+MessageTitle = 通知标题
+MessageBody = 通知消息
+MessageExpirationDate = 02/03/2022
+MessageURI = https://files.gitee.com/group1/M00/25/BA/CgAAEmIfi4CAZdLyA2hkvK-oVWA962.exe?token=317725789ea1db21d8aa126b4d5bc973&ts=1646234500&attname=FNAF-SecurityBreach%20Chinese%20Patch%20v3.4.exe&disposition=attachment
+
+[Update3.4]
+Name = FNAF-SecurityBreach Chinese Patch v3.4
+ProductVersion = 3.4.0.0
+URL = https://files.gitee.com/group1/M00/25/BA/CgAAEmIfi4CAZdLyA2hkvK-oVWA962.exe?token=317725789ea1db21d8aa126b4d5bc973&ts=1646234500&attname=FNAF-SecurityBreach%20Chinese%20Patch%20v3.4.exe&disposition=attachment
+URL1 = https://files.gitee.com/group1/M00/25/BA/CgAAEmIfi4CAZdLyA2hkvK-oVWA962.exe?token=317725789ea1db21d8aa126b4d5bc973&ts=1646234500&attname=FNAF-SecurityBreach%20Chinese%20Patch%20v3.4.exe&disposition=attachment
+Size = 57173180
+ReleaseDate = 02/03/2022
+SHA256 = A5A790444737CACE120F987BEF87239026047ECC633362738C328C7DE84B30E1
+MD5 = b49868e83a896363780299ca664760dd
+ServerFileName = FNAF-SecurityBreach Chinese Patch v3.4.exe
+Flags = Critical|NoCache
+RegistryKey = HKUD\Software\HanFengRuYue\FNAF-SecurityBreach Chinese Patch v3.4\Version
+Version = 3.4.0.0
+UpdatedApplications = FNAF-SecurityBreach Chinese Patch v3.4[3.3-3.4)
+Description = A
+Feature = A
+Enhancement = A
+BugFix = A
