@@ -2,7 +2,7 @@
 玩具熊的五夜后宫：安全漏洞中文汉化补丁  
 This patch can transfer your English language pack of FNAF:Security Breach into Chinese. <br/>
 
-## 汉化补丁 [FNAF:SB_汉化安装程序v3.5](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/releases/download/Install_v3.5/Fnaf-Security.Breach-Chinese.Patch.exe) <br/>
+## 汉化补丁 [FNAF:SB_汉化修正补丁v3.7](https://github.com/HanFengRuYue/FNAF-SecurityBreach_Chinese/releases/download/v3.7/FNAF_WorldNoEdit_p.pak) <br/>
 
 ## 游戏汉化文本 [Game.locres.xls]() <br/>
 
