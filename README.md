@@ -20,8 +20,7 @@ DLC:RUINUE4本地化文件：[下载](./src/DLC.locres)<br>
 3、进入```UnrealLocres```的文件夹，打开控制台。win10按住```Shift```+```鼠标右键```然后选择```在此处打开Powershell窗口```，win11```鼠标右键```然后选择```在Windows终端中打开```。<br>
 4、在控制台中输入：<br>
 ```./UnrealLocres.exe ./UnrealLocres.exe import (本体UE4本地化文件名称) (本体文本)```<br>
-示例：<br>
-```./UnrealLocres.exe import Game.locres GameCH.csv```<br>
+示例：```./UnrealLocres.exe import Game.locres GameCH.csv```<br>
 5、然后回车运行，如果成功，会在文件夹中生成一个叫```Game.locres.new```的文件。<br>
 6、DLC文本的方法也是一样的，名称都换成DLC的UE4本地化文件和文本就行了。<br>
 #### 第三步：使用UnrealPakSwitch将UE4本地化文件打包成PAK
