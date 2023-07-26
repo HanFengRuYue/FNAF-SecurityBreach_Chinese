@@ -3,7 +3,7 @@
 This patch can transfer your English language pack of FNAF:Security Breach into Chinese. <br>
 ## 补丁制作教程
 #### 第一步：下载所需文件
-UnrealPakSwitch：
-UnrealLocres：
-本体文本：
-DLC:RUIN文本：
+UnrealPakSwitch：<br>
+UnrealLocres：<br>
+本体文本：<br>
+DLC:RUIN文本：<br>
