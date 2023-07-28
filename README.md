@@ -1,6 +1,6 @@
 # FNAF-SecurityBreach_Chinese
-玩具熊的五夜后宫：安全漏洞中文汉化补丁  
-This patch can transfer your English language pack of FNAF:Security Breach into Chinese. <br>
+玩具熊的五夜后宫：安全漏洞汉化修正补丁  
+This patch can fix your official Chinese language pack of FNAF:Security Breach(RUIN included). <br>
 ## 补丁安装教程
 1、下载[fnaf9-WindowsNoEditor_p.pak]()。<br>
 2、找到游戏目录中的```Quarters\fnaf9\Content\Paks```文件夹。<br>
