@@ -254,7 +254,7 @@ key,source,target
 /DLC_Minigame_SecurityNode_Overlay_Text1,连接相匹配的全息图。注意不要交叉线路！,连接相匹配的图标。注意不要交叉线路!
 /DLC_ModelAssets_DLCProps_PREARConduitStatic_NotPermittedMessage,增强现实模式下不允许此操作。,增强现实模式下不允许此操作。
 /DLC_NoiseMakingTower_BPNMTInteractable_OutOfOrder,故障,故障
-/DLC_Objects_VannyMask_EquipFormat,<btn id="Teleport"/>：装备安全面具,<btn id="Teleport"/>：装备安全面具
+/DLC_Objects_VannyMask_EquipFormat,"<btn id=""Teleport""/>：装备安全面具","<btn id=""Teleport""/>：装备安全面具"
 /DLC_Objects_VannyMask_EquipMessage,装备安全面具,装备安全面具
 /DLC_Objects_VannyMask_MaskMessage2,检测到新用户，正在配对枕部传输器。保持冷静，一点儿都不痛。,检测到新用户，正在配对枕部传输器。保持冷静，一点儿都不痛。
 /DLC_PlaySequenceTrigger_GatorGolfCamRoom1,不要绝望。这不是死胡同。有时候，你需要的只是换个角度。检查摄像头站点。,不要绝望。这不是死胡同。有时候，你需要的只是换个角度。检查摄像头监控站。
@@ -301,7 +301,7 @@ key,source,target
 /DLC_UI_Lose_Retry,重试,重试
 /DLC_UI_Lose_TryAgain,是否重试？,是否重试?
 /DLC_UI_MaintenanceTool_Deactivated,已禁用：,已禁用：
-/DLC_UI_MaintenanceTool_XOFX,的,的
+/DLC_UI_MaintenanceTool_XOFX,的,/
 /DLC_UI_NewGameWarning_Continue,继续吗？,继续吗?
 /DLC_UI_NewGameWarning_ProgressLost,"此操作会开始新的生存模式游戏。
 所有进度都会丢失！","此操作会开始新的生存模式游戏。
@@ -1170,3 +1170,56 @@ Loc_UI_DLC/Loc_UI_DLC_Salon_Chica_Interactible_Button,修复语音盒,修复语�
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC,安全协议已停用，确定要继续吗？,安全协议已停用，确定要继续吗?
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC_Confirm,是,是
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC_Deny,否,否
+/1F12A53B437AB92D734E51AB8E1000B9,A description of each setting goes here...,
+/2BB67E9B450C7F90A9DFB6A0827149E3,"<btn id=""MenuAccept""/>",
+/3A5B523043F07AAC97BAFCB7DE953870,Gate ripped open by Tangle,
+/43395CCA421D82AD279079A7E3671DF5,Variable Name,
+/444BA19C4FDD9441E2D3EA9958AAB909,"<btn id=""MenuBack""/>",
+/6EEA06C64777A43E97E135B1482A4511,Escape,
+/94D4C3DF4089A46B0DF3C5A66697F9F5,WARNING: Unable to Find {name} in VODataTable,
+/AC4639C4414652BA5C46FE932300915C,100%,
+/D42187B9445515073708A98BE73D1DD0,T,
+/DLC_BP_UI_KeyBindingCassie_ESC,ESC,
+/DLC_BP_UI_KeyBindingCassie_EscapeFormat,Escape,
+/DLC_BP_UI_KeyBindingCFF_ESC,ESC,
+/DLC_BP_UI_KeyBindingCFF_EscapeFormat,Escape,
+/DLC_BP_UI_KeyBindingIcon_T,T,
+/DLC_UI_KeyBindingIcon_ESC,ESC,
+/DLC_UI_KeyBindingIcon_Escape,Escape,
+/E8A198A84F5580E2ADB9119846C6D969,Unable to Find {name} in VODataTable,
+/F2E48E79433977BBAC9988A2DDD4C923,ESC,
+Loc_Locations_DLC/Loc_Locations_DLC_BonnieBowl,bonniebowl,
+Loc_Locations_DLC/Loc_Locations_DLC_Cupcake,cupcake,
+Loc_Locations_DLC/Loc_Locations_DLC_Daycare,daycare,
+Loc_Locations_DLC/Loc_Locations_DLC_Fazerblast,fazerblast,
+Loc_Locations_DLC/Loc_Locations_DLC_MontyCatwalks,montycatwalks,
+Loc_Locations_DLC/Loc_Locations_DLC_MontyGolf,montygolf,
+Loc_Locations_DLC/Loc_Locations_DLC_RoxyRaceway,roxyraceway,
+Loc_Locations_DLC/Loc_Locations_DLC_Salon,salon,
+Loc_Locations_DLC/Loc_Locations_DLC_ServerRoom,serverroom,
+Loc_Locations_DLC/Loc_Locations_DLC_Sinkhole,sinkhole,
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_CHICA_00001,(Chica)\_00_00 <(>digital scream</>,
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_ENTITY_00001,(Entity) \_00_00<(>horrible digital scream</>,
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_MONTY_00001,(Monty) \_00_00<(>roar</>,
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_WALKIE_00001,\_00_00<(>distant noise</>,
+Loc_UI_DLC/Loc_UI_DLC_Camera_Station_Location_Format,{CameraLocationPrefix}{Separator}{CameraLocationName},
+Loc_UI_DLC/Loc_UI_DLC_Number_1,1,
+Loc_UI_DLC/Loc_UI_DLC_Number_10,10,
+Loc_UI_DLC/Loc_UI_DLC_Number_11,11,
+Loc_UI_DLC/Loc_UI_DLC_Number_12,12,
+Loc_UI_DLC/Loc_UI_DLC_Number_13,13,
+Loc_UI_DLC/Loc_UI_DLC_Number_14,14,
+Loc_UI_DLC/Loc_UI_DLC_Number_15,15,
+Loc_UI_DLC/Loc_UI_DLC_Number_16,16,
+Loc_UI_DLC/Loc_UI_DLC_Number_17,17,
+Loc_UI_DLC/Loc_UI_DLC_Number_18,18,
+Loc_UI_DLC/Loc_UI_DLC_Number_19,19,
+Loc_UI_DLC/Loc_UI_DLC_Number_2,2,
+Loc_UI_DLC/Loc_UI_DLC_Number_20,20,
+Loc_UI_DLC/Loc_UI_DLC_Number_3,3,
+Loc_UI_DLC/Loc_UI_DLC_Number_4,4,
+Loc_UI_DLC/Loc_UI_DLC_Number_5,5,
+Loc_UI_DLC/Loc_UI_DLC_Number_6,6,
+Loc_UI_DLC/Loc_UI_DLC_Number_7,7,
+Loc_UI_DLC/Loc_UI_DLC_Number_8,8,
+Loc_UI_DLC/Loc_UI_DLC_Number_9,9,
