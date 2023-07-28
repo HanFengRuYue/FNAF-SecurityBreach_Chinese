@@ -2,11 +2,11 @@ key,source,target
 /0F19003E49DA44A2CCE0C492A2AEC646,重启,重启
 /139DE1CE4E14BC3431BC9D937EB27F80,玩家控制旋转为{PlayerROT}传送位置为{ArrowROT} ,玩家控制旋转为{PlayerROT}传送位置为{ArrowROT} 
 /279B545144D1EB5A8EF3A9969A816745,退出黑客游戏耗时{time}秒，完成时间{Time},退出黑客游戏耗时{time}秒，完成时间{Time}
-/2932B74C45DBAE28415E10BCE00B7330,Ruin制作人员名单,Ruin制作人员名单
+/2932B74C45DBAE28415E10BCE00B7330,Ruin制作人员名单,废墟制作人员名单
 /45D36C404D5E1F987226AD8A7A3E4070,冲刺切换,冲刺切换
 /50F8F4A34502F93EE59B47AAB5B89C66,{trigger}完成等待传送门完成,{trigger}完成等待传送门完成
 /ADC89D8F4FCBD48AA6B11E8F33FF1F64,亮度,亮度
-/BD86A9834DECF13A44194F9D689CBE3E,在{Time}强制对{TargetActor}调用跳跃式惊吓,在{Time}强制对{TargetActor}调用跳跃式惊吓
+/BD86A9834DECF13A44194F9D689CBE3E,在{Time}强制对{TargetActor}调用跳跃式惊吓,在{Time}强制对{TargetActor}调用跳吓
 /C05153DA44E10CF596CBA38519B1373C,{Self}捕获触发器在时间{time}与{OtherActor}重叠,{Self}捕获触发器在时间{time}与{OtherActor}重叠
 /C21C94D14F3B1F741E9FAB8E5E87DB26,老鹰,老鹰
 /C8C20C334E06CEE6B537D18C24156414,？？？？？？,??????
@@ -254,7 +254,7 @@ key,source,target
 /DLC_Minigame_SecurityNode_Overlay_Text1,连接相匹配的全息图。注意不要交叉线路！,连接相匹配的图标。注意不要交叉线路!
 /DLC_ModelAssets_DLCProps_PREARConduitStatic_NotPermittedMessage,增强现实模式下不允许此操作。,增强现实模式下不允许此操作。
 /DLC_NoiseMakingTower_BPNMTInteractable_OutOfOrder,故障,故障
-/DLC_Objects_VannyMask_EquipFormat,"<btn id=""Teleport""/>：装备安全面具","<btn id=""Teleport""/>：装备安全面具"
+/DLC_Objects_VannyMask_EquipFormat,<btn id="Teleport"/>：装备安全面具,<btn id="Teleport"/>：装备安全面具
 /DLC_Objects_VannyMask_EquipMessage,装备安全面具,装备安全面具
 /DLC_Objects_VannyMask_MaskMessage2,检测到新用户，正在配对枕部传输器。保持冷静，一点儿都不痛。,检测到新用户，正在配对枕部传输器。保持冷静，一点儿都不痛。
 /DLC_PlaySequenceTrigger_GatorGolfCamRoom1,不要绝望。这不是死胡同。有时候，你需要的只是换个角度。检查摄像头站点。,不要绝望。这不是死胡同。有时候，你需要的只是换个角度。检查摄像头监控站。
@@ -1170,13 +1170,13 @@ Loc_UI_DLC/Loc_UI_DLC_Salon_Chica_Interactible_Button,修复语音盒,修复语�
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC,安全协议已停用，确定要继续吗？,安全协议已停用，确定要继续吗?
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC_Confirm,是,是
 Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC_Deny,否,否
-/1F12A53B437AB92D734E51AB8E1000B9,A description of each setting goes here...,
-/2BB67E9B450C7F90A9DFB6A0827149E3,"<btn id=""MenuAccept""/>",
+/1F12A53B437AB92D734E51AB8E1000B9,A description of each setting goes here...,这里是每个设置选项的描述…
+/2BB67E9B450C7F90A9DFB6A0827149E3,<btn id="MenuAccept"/>,
 /3A5B523043F07AAC97BAFCB7DE953870,Gate ripped open by Tangle,
 /43395CCA421D82AD279079A7E3671DF5,Variable Name,
-/444BA19C4FDD9441E2D3EA9958AAB909,"<btn id=""MenuBack""/>",
+/444BA19C4FDD9441E2D3EA9958AAB909,<btn id="MenuBack"/>,
 /6EEA06C64777A43E97E135B1482A4511,Escape,
-/94D4C3DF4089A46B0DF3C5A66697F9F5,WARNING: Unable to Find {name} in VODataTable,
+/94D4C3DF4089A46B0DF3C5A66697F9F5,WARNING: Unable to Find {name} in VODataTable,警告：无法在VODataTable中找到{name}
 /AC4639C4414652BA5C46FE932300915C,100%,
 /D42187B9445515073708A98BE73D1DD0,T,
 /DLC_BP_UI_KeyBindingCassie_ESC,ESC,
@@ -1186,7 +1186,7 @@ Loc_UI_DLC/Loc_UI_DLC_Sinkhole_PC_Deny,否,否
 /DLC_BP_UI_KeyBindingIcon_T,T,
 /DLC_UI_KeyBindingIcon_ESC,ESC,
 /DLC_UI_KeyBindingIcon_Escape,Escape,
-/E8A198A84F5580E2ADB9119846C6D969,Unable to Find {name} in VODataTable,
+/E8A198A84F5580E2ADB9119846C6D969,Unable to Find {name} in VODataTable,无法在VODataTable中找到{name}
 /F2E48E79433977BBAC9988A2DDD4C923,ESC,
 Loc_Locations_DLC/Loc_Locations_DLC_BonnieBowl,bonniebowl,
 Loc_Locations_DLC/Loc_Locations_DLC_Cupcake,cupcake,
@@ -1198,10 +1198,10 @@ Loc_Locations_DLC/Loc_Locations_DLC_RoxyRaceway,roxyraceway,
 Loc_Locations_DLC/Loc_Locations_DLC_Salon,salon,
 Loc_Locations_DLC/Loc_Locations_DLC_ServerRoom,serverroom,
 Loc_Locations_DLC/Loc_Locations_DLC_Sinkhole,sinkhole,
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_CHICA_00001,(Chica)\_00_00 <(>digital scream</>,
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_ENTITY_00001,(Entity) \_00_00<(>horrible digital scream</>,
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_MONTY_00001,(Monty) \_00_00<(>roar</>,
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_WALKIE_00001,\_00_00<(>distant noise</>,
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_CHICA_00001,(Chica)\_00_00 <(>digital scream</>,(Chica)\_00_00 <(>数字化的嘶吼</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_ENTITY_00001,(Entity) \_00_00<(>horrible digital scream</>,(Entity) \_00_00<(>数字化的恐怖嘶吼</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_MONTY_00001,(Monty) \_00_00<(>roar</>,(Monty) \_00_00<(>吼叫</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_WALKIE_00001,\_00_00<(>distant noise</>,\_00_00<(>远处的噪音</>
 Loc_UI_DLC/Loc_UI_DLC_Camera_Station_Location_Format,{CameraLocationPrefix}{Separator}{CameraLocationName},
 Loc_UI_DLC/Loc_UI_DLC_Number_1,1,
 Loc_UI_DLC/Loc_UI_DLC_Number_10,10,
