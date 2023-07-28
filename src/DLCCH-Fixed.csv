@@ -1198,9 +1198,9 @@ Loc_Locations_DLC/Loc_Locations_DLC_RoxyRaceway,roxyraceway,
 Loc_Locations_DLC/Loc_Locations_DLC_Salon,salon,
 Loc_Locations_DLC/Loc_Locations_DLC_ServerRoom,serverroom,
 Loc_Locations_DLC/Loc_Locations_DLC_Sinkhole,sinkhole,
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_CHICA_00001,(Chica)\_00_00 <(>digital scream</>,(Chica)\_00_00 <(>数字化的嘶吼</>
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_ENTITY_00001,(Entity) \_00_00<(>horrible digital scream</>,(Entity) \_00_00<(>数字化的恐怖嘶吼</>
-Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_MONTY_00001,(Monty) \_00_00<(>roar</>,(Monty) \_00_00<(>吼叫</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_CHICA_00001,(Chica)\_00_00 <(>digital scream</>,(奇卡)\_00_00 <(>数字化的嘶吼</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_ENTITY_00001,(Entity) \_00_00<(>horrible digital scream</>,(实体) \_00_00<(>数字化的恐怖嘶吼</>
+Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_MONTY_00001,(Monty) \_00_00<(>roar</>,(蒙蒂) \_00_00<(>吼叫</>
 Loc_Subtitles_Timestamp_DLC/Loc_Subtitle_TimeStamp_RN_WALKIE_00001,\_00_00<(>distant noise</>,\_00_00<(>远处的噪音</>
 Loc_UI_DLC/Loc_UI_DLC_Camera_Station_Location_Format,{CameraLocationPrefix}{Separator}{CameraLocationName},
 Loc_UI_DLC/Loc_UI_DLC_Number_1,1,
